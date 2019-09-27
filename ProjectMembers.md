@@ -39,3 +39,9 @@ Github: kelvinttran
 Cognitive Science, 1st Year, Python
 
 Github: blankkcanvas
+
+## Revanth Sridhar
+
+MEngg Student with Specialization in Data Science
+
+GitHub: Revanth91
